@@ -48,7 +48,7 @@ $result = $conn->query('SELECT * FROM `product` LIMIT 8');
 <body>
     <!-- header -->
     <div class="agileits_header">
-      <div class="w3l_offers"> <a href="#">Fruit shopping</a> </div>
+      <div class="w3l_offers"> <a href="#">Grocery shopping</a> </div>
       <div class="w3l_search">
         <form action="search.php" method="post">
           <input type="text" name="Product" value="Search a product..." onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search a product...';}" required="">
