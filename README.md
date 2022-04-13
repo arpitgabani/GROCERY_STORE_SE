@@ -13,4 +13,4 @@
 
 # About Online Grocery Store
 
-This project made By Raj  in PHP.
+This project made By Rut  in PHP.
